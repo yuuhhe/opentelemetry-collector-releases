@@ -269,4 +269,4 @@ providers:
   
 # （复制粘贴官方全部内容后，在文件最底部新增下面这几行）
 replaces:
-  - github.com/open-telemetry/opentelemetry-collector-contrib/receiver/datadogreceiver => ./contrib-fork/receiver/datadogreceiver
+  - github.com/open-telemetry/opentelemetry-collector-contrib/receiver/datadogreceiver => ../contrib-fork/receiver/datadogreceiver
